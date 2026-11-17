@@ -9,6 +9,7 @@
 - `project1_numpy.tex`: experiment report based on the supplied Shenzhen University template. Upload both to Overleaf and compile with XeLaTeX.
 - `project1_numpy.pdf`: compiled report.
 - `figs/`: all image assets used in the experiment report.
+
 Course-provided weight files, image assets, and reference_outputs.npz are excluded, as they are course resources.
 
 ## Run

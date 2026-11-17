@@ -6,8 +6,9 @@
 
 - `image_encoder.py`: completed NumPy implementation of the OpenCLIP ViT-B-32 image encoder.
 - `helpers.py`: provided runtime dependency required by `image_encoder.py`.
-- `main.tex`: experiment report based on the supplied Shenzhen University template. Upload both to Overleaf and compile with XeLaTeX.
-- `实验报告.pdf`: compiled report.
+- `project1_numpy.tex`: experiment report based on the supplied Shenzhen University template. Upload both to Overleaf and compile with XeLaTeX.
+- `project1_numpy.pdf`: compiled report.
+- `figs/`: all image assets used in the experiment report.
 Course-provided weight files, image assets, and reference_outputs.npz are excluded, as they are course resources.
 
 ## Run

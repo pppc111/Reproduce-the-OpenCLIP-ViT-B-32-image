@@ -11,6 +11,8 @@
 - `figs/`: all image assets used in the experiment report.
 - `course_resources/`: stores course-provided resources, including weight files, image assets, `reference_outputs.npz` and so on.
 
+Pretrained weight files are not included in this repository due to GitHub file size limits. Please download them from the course link provided.
+
 ## Run
 
 Place `image_encoder.py` and `helpers.py` beside the course-provided `weights/`, `assets/`, `runtime.py`, and `check.py`, then run:
